@@ -5,9 +5,9 @@
 <head>
 
 
+	<h3 style="font-family:serif"> Company: Godbrand Games L.L.C. </h3>
     <h3 style="font-family:serif"> Coder: Akinwale Owi </h3>
-    <h3 style="font-family:serif"> Company: Godbrand Games L.L.C. </h3>
-    <h3 style="font-family:serif"> Program Goal: Code to images into a html webpage.</h3>
+    <h3 style="font-family:serif"> Program Goal: Code images into links on a html webpage.</h3>
 
 
     <title>Coding HTML images
@@ -25,7 +25,7 @@
         <h2 style="font-family:serif">~Image is from google and clicking it will take you to my youtube~</h2>
 
 
-    <img src="https://i.ytimg.com/vi/L7ZPCcclDjg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYciBQKEMwDw==&rs=AOn4CLBw8AyqWp096PhWr5jm-C_jQgj-Zw" alt="Me" width="300" height="300">
+    <a href="https://www.youtube.com/channel/UCuy8cOPLnhX-TAsH_8dHpfw"><img src="https://i.ytimg.com/vi/L7ZPCcclDjg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYciBQKEMwDw==&rs=AOn4CLBw8AyqWp096PhWr5jm-C_jQgj-Zw" alt="Me" width="300" height="300"></a>
 
 
     </Center>
