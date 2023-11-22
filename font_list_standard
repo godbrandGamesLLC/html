@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+
+    <p style="font-family:verdana"> Coder: Akinwale Owi </p>
+    <p style="font-family:'Courier New'">>Company: Godbrand Games L.L.C. </p>
+    <p>Program Purpose: Create a growing list of css fonts we can use </p>
+
+
+    <title>How to change the font style in on an HTML website.
+    </title>
+
+</head>
+
+<body text="#FFA500" bgcolor="#000000">
+
+    <hr />
+    <hr />
+    <Center>
+        <h2>~These all come standard~</h2>
+    </Center>
+
+    <h2 style=" font-family:serif">1. Serif: </h2>
+    <h2 style=" font-family:times new roman">1a. Times New Roman </h2>
+    <h2 style=" font-family:Georgia">1b. Georgia </h2>
+    <h2 style=" font-family:Garamond">1c. Garamond </h2>
+
+
+    <hr />
+
+    <h2 style="font-family:sans-serif">2. Sans-Serif:</h2>
+    <h2 style="font-family:arial">2a. Arial </h2>
+    <h2 style="font-family:Verdana">2b. Verdana </h2>
+    <h2 style="font-family:Helvetica">2c. Helvetica</h2>
+
+    <hr />
+    <h2 style="font-family:Monospace">3. Monospace:</h2>
+    <h2 style="font-family:Courier New">3A. Courier New </h2>
+    <h2 style="font-family:Lucida Console">3B. Lucida Console</h2>
+    <h2 style="font-family:Monaco">3C. Monaco</h2>
+
+    <hr />
+    <h2 style="font-family:Cursive">4. Cursive:</h2>
+    <h2 style="font-family:Brush Script MT">4A. Brush Script MT</h2>
+    <h2 style="font-family:Lucida Handwriting">4B. Lucida Handwriting </h2>
+
+    <hr />
+    <h2 style="font-family:Fantasy">5. Fantasy:</h2>
+    <h2 style="font-family:Copperplate">5a. Copperplate:</h2>
+    <h2 style="font-family:Papyrus">5b. Papyrus:</h2>
+
+
+
+
+</body>
+
+</html>
