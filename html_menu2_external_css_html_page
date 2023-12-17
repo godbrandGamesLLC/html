@@ -1,0 +1,21 @@
+<link rel="stylesheet" href="mystyle.css">
+
+<div class="page">
+  <nav class="page__menu menu">
+    <ul class="menu__list r-list">
+      <li class="menu__group"><a href="#0" class="menu__link r-link text-underlined">Option #1</a></li>
+      <li class="menu__group"><a href="#0" class="menu__link r-link text-underlined">Option #2</a></li>
+      <li class="menu__group"><a href="#0" class="menu__link r-link text-underlined">Option #3</a></li>
+    </ul>
+  </nav>
+  <nav class="page__menu page__custom-settings menu">
+    <ul class="menu__list r-list">
+      <li class="menu__group"><a href="#0" class="menu__link r-link text-underlined">Option #1</a></li>
+      <li class="menu__group"><a href="#0" class="menu__link r-link text-underlined">Option #2</a></li>
+      <li class="menu__group"><a href="#0" class="menu__link r-link text-underlined">Option #3</a></li>
+    </ul>
+  </nav>
+</div>
+<div class="linktr">
+  <a href="https://cssisntmagic.substack.com" target="_blank" class="linktr__goal r-link">Subscribe on my email newsletter with CSS tips <span aria-hidden="true">💪💪💪</span></a>
+</div>
