@@ -3,35 +3,19 @@
 <html>
 
 
-<link rel="stylesheet" href="menu_two.css">
-
-
 <header>
-
-<div class="page">
-  
-  <nav class="page__menu page__custom-settings menu">
-    <ul class="menu__list r-list">
-      <li class="menu__group"><a href="#0" class="menu__link r-link text-underlined">Welcome to Godbrand Games L.L.C</a></li>
-      <li class="menu__group"><a href="#0" class="menu__link r-link text-underlined">Football: 11 vs 11</a></li>
-      <li class="menu__group"><a href="#0" class="menu__link r-link text-underlined">Space Shooter: Space Schooner</a></li>
-      <li class="menu__group"><a href="#0" class="menu__link r-link text-underlined">Ping Pong</a></li>
-      <li class="menu__group"><a href="#0" class="menu__link r-link text-underlined">Soccer</a></li>
-      <li class="menu__group"><a href="#0" class="menu__link r-link text-underlined">Volleyball</a></li>
-    </ul>
-  </nav>
-</div>
 
 
 </header>
 
-<body text="#0" bgcolor="#964B00">
+
+<body>
 
 <style>
 
 body 
 {
-  background-image: url('pics_ggs_homepage/soccer_pic.jpg');
+  background-image: url('soccer_pic.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -39,17 +23,11 @@ body
 </style>
 
 
-  <Center>   
-
-
-	 <h3 style="font-family:serif"> Thanks for kicking it at Godbrand Games' soccer pitch </h3>
- </Center>
-
 </body>
 
 <footer>
 
-<a href="godbrandgamesdotcom.html" target="_blank">Back to home </a>
+
 
 
 </footer>
