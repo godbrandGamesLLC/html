@@ -1,0 +1,13 @@
+<style type="text/css">
+    #element1 {display:inline-block;margin-right:1px;} 
+    #element2 {display:inline-block;} 
+
+</style>
+<Center>
+<div id="element1">
+    <H2>LET US COOK SO </H2>
+</div>
+<div id="element2">
+   <h2 = >YOU CAN READ A BOOK </h2>
+</div>
+</Center>
